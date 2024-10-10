@@ -14,7 +14,6 @@ function getDigitsSum(num = 0){
 
     return res;
 }
-// так понравилась стрелочная функция))
 
 console.log(getDigitsSum(129.148));
 console.log(getDigitsSum(-280.123));
