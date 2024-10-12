@@ -10,4 +10,9 @@ If it is colored yellow, it means that such a letter is there, but it is not in 
 Если они окрасились в зеленый, значит - эта буква есть и на своем месте.  
 Если она окрасилась в желтый, значит - такая буква есть, но она не на своем месте. Но если красный - такой буквы нет.
 
-![image](https://github.com/user-attachments/assets/750ee846-196b-4585-9377-c0ed53468697)
+![image](https://github.com/user-attachments/assets/750ee846-196b-4585-9377-c0ed53468697) 
+
+***
+
+![image](https://github.com/user-attachments/assets/aee3bf3a-7e35-4f97-a068-0150b2f26a2d)
+
