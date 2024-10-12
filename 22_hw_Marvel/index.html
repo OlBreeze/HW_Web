@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+<header>
+    <h3>Marvels field game</h3>
+</header>
+<section id="field">
+    <p id="question"></p>
+    <input type="text" id="word-input" placeholder="Enter word" onchange="checkWord()">
+    <div id="letter-row">
+        <p id="letter-remained"></p>
+        <input type="text" id="letter-input" minlength="1" maxlength="1" onchange="checkLetter()">
+    </div>
+</section>
+<section id="word">
+</section>
+<section class="section_center">
+    <p id="result-message"></p>
+    <button id="play-again" onclick="startGame()">Play again</button>
+</section>
+<button id="all-word" onclick="risk()">I want to spell word</button>
+</body>
+</html>
