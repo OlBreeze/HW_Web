@@ -2,6 +2,8 @@
 
 When you click on the button, you should have a new `<li>` with the text that you entered in the input and + button to remove this element from the list  
 
+**In archive "HW 23_ToDo_jQuery.zip" - implementation ToDo on jQuery**  
+
 ***
 ***
 
@@ -16,3 +18,5 @@ When you click on the button, you should have a new `<li>` with the text that yo
 ### Remove items:
 
 ![image](https://github.com/user-attachments/assets/2760de48-0ba3-4b13-b3e3-f129db1afc9d)
+
+
