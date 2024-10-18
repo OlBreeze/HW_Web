@@ -1,6 +1,7 @@
 # Product order form (milk/tea/coffee)  
 Depending on the type of product - additional options change.  
 Products must be listed on a separate page  
+Navigator
 
 ![image](https://github.com/user-attachments/assets/db8d815d-9f43-4bc4-a797-e53b98bbd372)
 
