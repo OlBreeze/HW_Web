@@ -1,4 +1,28 @@
 # Task  
+Initial screen should contain two buttons (root)  
+1. Button for triggering Employee Data form (EmployeeData)   
+2. Button for triggering Employees Random Generation form (RandomEmployee)   
+
+EmployeeData form must contain the following fields  
+1. employee ID. -> input  
+2. email -> input  
+3. name -> input  
+4. gender -> radio  
+5. country -> select  
+6. city -> select  
+7. position -> select  
+8. salary -> input  
+
+The options of select city should depend on the selected country.  
+The minimum and maximum salary values should depend on the chosen position.  
+
+RandomEmployee form must contain the following fields  
+1. Number of digits in the employee’s id   
+2. Number of employees   
+3. Minimal salary value   
+4. Maximal salary value
+    
+***
 
 On the main form of our application there are two buttons:  
 1. the form for creating a new employee and
