@@ -1,3 +1,5 @@
+# Sprint 1  - A solution using self-invoking functions
+
 # 1. Write module company.js with the following 
 
 Constructor Company() constructing constructing this.data = {}.   
