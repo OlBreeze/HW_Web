@@ -1,3 +1,5 @@
+# Sprint 1  - A solution using self-invoking functions  
+
 # It is the first project with simple structure
 
 
