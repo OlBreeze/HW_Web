@@ -23,3 +23,6 @@ Title allowed values: Wage Employee, Manager, Sales Person, Sales Manager
 
 # 3. Write module main.js   
 Add code for creating 20 random employees and display created Employees on browser page   
+
+  # result
+  ![image](https://github.com/user-attachments/assets/28e8f498-2287-4506-b5ef-54cec389a973)
