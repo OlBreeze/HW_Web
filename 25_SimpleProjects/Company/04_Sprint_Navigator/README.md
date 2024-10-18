@@ -14,3 +14,8 @@ Three pages as result:
 ## Third page:  
 ![image](https://github.com/user-attachments/assets/b1af35a7-4dea-4af5-a148-36660950ecf4)
 
+## the ability to delete an employee from the table:  
+
+  
+
+![image](https://github.com/user-attachments/assets/a6619d7b-ce41-4b9d-8cb5-a40fc596b728)
